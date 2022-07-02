@@ -26,43 +26,21 @@
 
 💡 Технологии:
 
-- HTML5
+- HTML5, CSS3, JavaScript, SCSS/SASS
 
-- CSS3
+- БЭМ, Flexbox, Grid
 
-- Flexbox
+- Adobe Photoshop, Figma
 
-- БЭМ
+- Git, Firebase
 
-- Adobe Photoshop
+- Bootstrap 4/5, React, jQuery
 
-- Figma
-
-- Git
-
-- SCSS/SASS
-
-- Bootstrap 4/5
-
-- JavaScript
-
-- Ajax
-
-- jQuery
-
-- React
-
-- Promise
-
-- REST
+- Ajax, Promise, Rest, Адаптивная верстка
 
 - npm
 
 - webpack
-
-- Адаптивная верстка
-
-- Firebase
 
 #
 
