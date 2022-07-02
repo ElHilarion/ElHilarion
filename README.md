@@ -28,13 +28,13 @@
 
 - БЭМ, Flexbox, Grid, Адаптивная верстка
 
-- Adobe Photoshop, Figma
-
 - Bootstrap 4/5, React, jQuery
 
 - Ajax, Promise, Rest
 
 - npm, Git, Firebase, webpack
+
+- Adobe Photoshop, Figma
 
 #
 
