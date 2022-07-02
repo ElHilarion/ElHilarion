@@ -26,7 +26,7 @@
 
 - HTML5, CSS3, JavaScript, SCSS/SASS
 
-- БЭМ, Flexbox, Grid
+- БЭМ, Flexbox, Grid, Адаптивная верстка
 
 - Adobe Photoshop, Figma
 
@@ -34,7 +34,7 @@
 
 - Bootstrap 4/5, React, jQuery
 
-- Ajax, Promise, Rest, Адаптивная верстка
+- Ajax, Promise, Rest
 
 - npm
 
