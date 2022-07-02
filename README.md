@@ -30,15 +30,11 @@
 
 - Adobe Photoshop, Figma
 
-- Git, Firebase
-
 - Bootstrap 4/5, React, jQuery
 
 - Ajax, Promise, Rest
 
-- npm
-
-- webpack
+- npm, Git, Firebase, webpack
 
 #
 
