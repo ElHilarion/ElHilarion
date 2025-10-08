@@ -2,7 +2,7 @@
 
 - ЯндексПочта: ilarionageenko@yandex.ru
 
-- Телеграм: https://t.me/hilarion28 (@hilarion28)
+- Телеграм: https://t.me/lari_age
 
 #
 
